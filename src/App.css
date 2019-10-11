@@ -1,0 +1,22 @@
+.mainList{
+  padding: 10px 20px;
+}
+.mainList div{
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.mainList div h3, .mainList div p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.mainList div h3{
+  margin: 0 10px 0 15px;
+  font-weight: normal;
+}
+
+li{
+    cursor: pointer;
+}
